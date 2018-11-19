@@ -2,6 +2,7 @@ body {
     margin: 3vw;
     font-family: 'Open Sans', sans-serif;
     font-size : 15px;
+    background-color: aliceblue;
 }
 
 #titulo {
@@ -15,6 +16,7 @@ body {
 }
 
 #diapositivas, #enlaces, #otros {
+    background-color: white;
     border-style: solid;
     border-radius: 10px;
     border-width: 1px;
